@@ -20,7 +20,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the req
 pip install numpy pandas matplotlib
 ```
 
-Run the [code.py](code.py) script in *jupyter notebook* to see the solution:
+Run the [code.ipynb](code.ipynb) script in *jupyter notebook* to see the solution:
 
 ```bash
 jupyter notebook
