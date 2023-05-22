@@ -35,7 +35,6 @@ The output includes:
 1. Python code in code.py implementing the solution
 2. A visualization of the team assignments like the image below:
 
-![Team Assignments Visualization](visualization.png)
 
 3. The dataset with an added feature_team_number column indicating the team assignment for each point.
 
