@@ -56,6 +56,8 @@ To solve this task, I used the K-means clustering algorithm to group the points 
 6.  Run K-means clustering with  `K=5`  and  `max_iter=100`. This groups the points into 5 clusters.
     
 7.  Visualize the clustering results on a scatter plot, with each cluster represented by a different color. The  final centroid locations  are marked with 'x'.
+
+
 ![Team Assignments Visualization](visualization.png)
     
 8.  Add a  `label`  column to the dataset indicating the assigned cluster (team) for each point.
